@@ -1,0 +1,10 @@
+Hi Kelly,
+In your submission for the Module 15 Challenge on testing web applications for vulnerabilities, you effectively demonstrate a solid understanding of various exploits and their mitigations. Your screenshots and explanations for each exploit are clear and concise, showcasing your proficiency in identifying vulnerabilities. The mitigation strategies you outline show a proactive approach to security, emphasizing the importance of measures like strict input validation and segregation of sensitive files.
+
+As for the second exploit, your successful provision of login credentials highlights the impact of a brute force attack. Your suggested mitigation strategies, such as employing complex passwords and multi-factor authentication, reflect a strong grasp of effective authentication mechanisms.
+
+In the third exploit, your confirmation of the cross-site scripting vulnerability and subsequent adjustment of the payload length demonstrate your attention to detail. Your proposed mitigation strategies, focusing on strict input validation and sanitization, underscore your understanding of preventing malicious code injection.
+
+Overall, your submission is commendable for its thoroughness and clarity. To further enhance your work, consider providing additional context or rationale behind each mitigation strategy to showcase a deeper understanding of cybersecurity principles. Keep up the good work and continue refining your skills in vulnerability testing and mitigation strategies.
+-saa
+Central Grader, Apr 24 at 4:56pm
